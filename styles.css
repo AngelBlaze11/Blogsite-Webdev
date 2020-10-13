@@ -156,14 +156,15 @@ h1
 {
     color: rgb(12, 123, 187);
     text-align: center;
-    font-size: 40px; 
+    font-size: 60px; 
+    margin-bottom: 30px;
   
 }
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 50%;
 }
 details
 {
