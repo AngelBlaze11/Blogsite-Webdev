@@ -156,7 +156,7 @@ h1
 {
     color: rgb(12, 123, 187);
     text-align: center;
-    font-size: 60px; 
+    font-size: 50px; 
     margin-bottom: 30px;
   
 }
@@ -166,7 +166,7 @@ h1
   margin-right: auto;
   width: 50%;
 }
-details
+.content
 {
     width: 800px;
     box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
@@ -177,7 +177,10 @@ details
     display: block;
     text-align: center;
 }
-
+h3
+{
+    font-size: 25px;
+}
 .sign-up-form
 {
     width: 300px;
