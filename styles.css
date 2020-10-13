@@ -157,6 +157,7 @@ h1
     color: rgb(12, 123, 187);
     text-align: center;
     font-size: 40px; 
+  
 }
 .center {
   display: block;
@@ -166,13 +167,14 @@ h1
 }
 details
 {
-   width: 800px;
+    width: 800px;
     box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
     background: #fff;
     padding: 30px;
     margin: 8% auto 0;
     font-family: sans-serif;
     display: block;
+    text-align: center;
 }
 
 .sign-up-form
